@@ -1,0 +1,31 @@
+<asprezzaRules>
+  <asprezzaRule rule="bb">1.5</asprezzaRule>
+  <asprezzaRule rule="cc">1.5</asprezzaRule>
+  <asprezzaRule rule="cce">1.25</asprezzaRule>
+  <asprezzaRule rule="cci">1.25</asprezzaRule>
+  <asprezzaRule rule="ccr">2.5</asprezzaRule>
+  <asprezzaRule rule="cr">2.5</asprezzaRule>
+  <asprezzaRule rule="lz">1.75</asprezzaRule>
+  <asprezzaRule rule="nc">2.25</asprezzaRule>
+  <asprezzaRule rule="nce">2</asprezzaRule>
+  <asprezzaRule rule="nci">2</asprezzaRule>
+  <asprezzaRule rule="ncr">3.5</asprezzaRule>
+  <asprezzaRule rule="nge">2</asprezzaRule>
+  <asprezzaRule rule="ngi">2</asprezzaRule>
+  <asprezzaRule rule="ns">1.75</asprezzaRule>
+  <asprezzaRule rule="pr">2.5</asprezzaRule>
+  <asprezzaRule rule="rm">1.75</asprezzaRule>
+  <asprezzaRule rule="rr">1</asprezzaRule>
+  <asprezzaRule rule="rs">2</asprezzaRule>
+  <asprezzaRule rule="rz">2.25</asprezzaRule>
+  <asprezzaRule rule="sc">2.5</asprezzaRule>
+  <asprezzaRule rule="sce">1</asprezzaRule>
+  <asprezzaRule rule="sci">1</asprezzaRule>
+  <asprezzaRule rule="scr">3.75</asprezzaRule>
+  <asprezzaRule rule="spr">3.75</asprezzaRule>
+  <asprezzaRule rule="str">3.75</asprezzaRule>
+  <asprezzaRule rule="tr">2.5</asprezzaRule>
+  <asprezzaRule rule="zz">1.25</asprezzaRule>
+  <asprezzaRule rule="nstr">4.5</asprezzaRule>
+  <multiplicatorRhyme>1,50</multiplicatorRhyme>
+</asprezzaRules>

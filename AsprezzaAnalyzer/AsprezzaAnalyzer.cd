@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="AsprezzaAnalyzer.AsprezzaCalculator">
+    <Position X="4.25" Y="9" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>AsprezzaCalculator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="result" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AsprezzaAnalyzer.AsprezzaResultSet">
+    <Position X="4.75" Y="11" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>AsprezzaCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsprezzaAnalyzer.AsprezzaExporter">
+    <Position X="4.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAIAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>AsprezzaExporter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsprezzaAnalyzer.AsprezzaMapping">
+    <Position X="0.75" Y="0.5" Width="3" />
+    <AssociationLine Name="mappingTable" Type="AsprezzaAnalyzer.AsprezzaRule">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="-2.882" Y="0.41" Height="0.182" Width="2.58" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AsprezzaMapping.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="mappingTable" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="AsprezzaAnalyzer.AsprezzaRule">
+    <Position X="0.75" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAACAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AsprezzaMapping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsprezzaAnalyzer.AsprezzaRuleComparer" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>AsprezzaMapping.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AsprezzaAnalyzer.ConfigExtractor">
+    <Position X="3.5" Y="3.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ConfigExtractor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsprezzaAnalyzer.Line">
+    <Position X="0.75" Y="9" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Line.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Words" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="AsprezzaAnalyzer.ScottPlotService">
+    <Position X="4.75" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>ScottPlotService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsprezzaAnalyzer.TeiXmlParser">
+    <Position X="4.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>TeiXmlParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AsprezzaAnalyzer.TextUnit">
+    <Position X="0.75" Y="6.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAQAAAAAA=</HashCode>
+      <FileName>TextUnit.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Lines" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="AsprezzaAnalyzer.Word">
+    <Position X="0.75" Y="11.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Word.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsprezzaAnalyzer.AsprezzaRuleImportExport">
+    <Position X="4" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAABAAAA=</HashCode>
+      <FileName>AsprezzaRuleImportExport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
