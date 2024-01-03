@@ -1,13 +1,16 @@
 # .gitignore for C# projects from https://gist.github.com/kmorcinek/2710267
 
+!Setup_Asprezza/Debug/setup.exe
+!Setup_Asprezza/Release/setup.exe
+
 # User-specific files
 *.suo
 *.user
 *.sln.docstates
 
 # Build results
-[Dd]ebug/
-[Rr]elease/
+AsprezzaAnalyzer/[Dd]ebug/
+AsprezzaAnalyzer/[Rr]elease/
 x64/
 [Bb]in/
 [Oo]bj/

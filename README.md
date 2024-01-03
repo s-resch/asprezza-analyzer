@@ -8,7 +8,7 @@ The application was built in order to analyze phonetic asprezza in (Old) Italian
 
 # Prerequisities
 
-**Asprezza Analyzer** was implemented using .NET Framework 4.7.2 using Visual Studio 2019 (Community Edition) and the programming language C#. Thus. in order to install the programm you need to install .NET 4.7.2 on your (Windows) machine. If you use the setup MSI-file published in this repository, the setup programme should take care of this and other prerequisities such as programming libraries.
+**Asprezza Analyzer** was implemented using .NET Framework 4.7.2 using Visual Studio 2019 (Community Edition) and the programming language C#. Thus. in order to install the programm you need to install .NET 4.7.2 on your (Windows) machine. If you use the setup MSI-file (or the setup.exe) published in this repository under [Setup_Asprezza/Debug](Setup_Asprezza/Debug) or [Setup_Asprezza/Release](Setup_Asprezza/Release), the setup programme should take care of this and other prerequisities such as programming libraries.
 
 # Copyright/References
 
